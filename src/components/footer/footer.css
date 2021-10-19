@@ -1,0 +1,19 @@
+.footer-link a {
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    line-height: 35px;
+  }
+  
+   
+  
+  .dropdown-menu.show {
+    left: -126px;
+    padding: 11px;
+  }
+
+  .foot-contact-block{
+      background-color: #3c3f42 ;
+      padding: 20px;
+  }

@@ -1,0 +1,17 @@
+.container-custom {
+    max-width: 1124px;
+}
+
+.map-img-wrap {
+    position: relative;
+}
+
+p {
+    line-height: 13px;
+    line-height: 1.8;
+    font-size: 14px;
+}
+
+.contact-title h4 {
+    margin: 0 0 22px;
+}

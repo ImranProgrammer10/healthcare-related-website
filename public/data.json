@@ -1,0 +1,65 @@
+[
+    {
+        "key": "1",
+        "name": "Neurology",
+        "simpleDescription": "COVID-19 has changed how we manage our health. In spite of all the challenges, there are a lot of positive lessons we can take from this experience.",
+        "description": "Neurology is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving the central and peripheral nervous systems, including their coverings, blood vessels, and all effector tissue, such as muscle.",
+        "image": "https://www.bdspecializedhospital.com/storage/app/public/media/1557644638.png"
+    },
+    {
+        "key": "2",
+        "name": "Cardiology",
+        "simpleDescription": "COVID-19 has changed how we manage our health. In spite of all the challenges, there are a lot of positive lessons we can take from this experience.",
+        "description": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology. ",
+        "image": "https://www.bdspecializedhospital.com/storage/app/public/media/1556174961.png"
+    },
+    {
+        "key": "3",
+        "name": "Oncology",
+        "simpleDescription": "In some cases, exercise can be as effective as a drug. How does breaking a sweat improve your mood?",
+        "description": "Have you ever wondered what causes clinical depression? Perhaps you have been diagnosed with major depression, and that's made you question why some people get depressed but others don't. Depression is a complex disease.",
+        "image": "https://www.bdspecializedhospital.com/storage/app/public/media/1557639889.png"
+    },
+    {
+        "key": "4",
+        "name": "Anesthesia",
+        "simpleDescription": "Regular eye exams reveal vision problems like nearsightedness, farsightedness, presbyopia, and astigmatism.",
+        "description": "Anesthesia is a treatment using drugs called anesthetics. These drugs keep you from feeling pain during medical procedures. Anesthesiologists are medical doctors who administer anesthesia and manage pain. Some anesthesia numbs a small area of the body",
+        "image": "https://www.bdspecializedhospital.com/storage/app/public/media/1599458422.png"
+    },
+    {
+        "key": "5",
+        "name": "Urology",
+        "simpleDescription": "Pain management is important for ongoing pain control, especially if you suffer with long-term or chronic pain.",
+        "description": " Urology, also known as genitourinary surgery, is the branch of medicine that focuses on surgical and medical diseases of the male and female urinary-tract system and the male reproductive organs.  ",
+        "image": "https://www.bdspecializedhospital.com/storage/app/public/media/1557639918.png"
+    },
+    {
+        "key": "6",
+        "name": "MRD Services",
+        "simpleDescription": "Good treatments are available for a variety of skin conditions, including rash, itchy skin, skin fungus or infection, skin bumps or skin tags.",
+        "description": "This fungus is related more closely to the mold on stale bread or the yeast used to brew beer than to bacteria that usually cause infections. The mold is found on rose thorns, hay, sphagnum moss, twigs, and soil. Therefore, the infection is more common among gardeners who work with roses, moss, hay, and soil.",
+        "image": "https://www.bdspecializedhospital.com/storage/app/public/media/1556174961.png"
+    },
+    {
+        "key": "7",
+        "name": "Dermatology",
+        "simpleDescription": "Good sleep is necessary for optimal health and can affect hormone levels, mood and weight.",
+        "description": "Dermatology is the branch of medicine dealing with the skin. It is a speciality with both medical and surgical aspects. A dermatologist is a specialist medical doctor who manages diseases related to skin, hair, nails, and some cosmetic problems.",
+        "image": "https://www.bdspecializedhospital.com/storage/app/public/media/1557639932.png"
+    },
+    {
+        "key": "8",
+        "name": "Nephrology",
+        "simpleDescription": "A nutritionist shares foods that seem to promote a longer lifespan.",
+        "description": "Nephrology (from Greek nephros  is a specialty of adult internal medicine and pediatric medicine that concerns the study of the kidneys, specifically normal kidney function (renal physiology) and kidney disease (renal pathophysiology), the preservation of kidney ...",
+        "image": "https://www.bdspecializedhospital.com/storage/app/public/media/1557644638.png"
+    },
+    {
+        "key": "9",
+        "name": "Vescular Surgery",
+        "simpleDescription": "It felt like putting on glasses for the first time. That is how one of my patients recently described the experience of being on medication.",
+        "description": "TVascular surgery is a surgical subspecialty in which diseases of the vascular system, or arteries, veins and lymphatic circulation, are managed by medical therapy, minimally-invasive catheter procedures, and surgical reconstruction. ",
+        "image": "https://www.bdspecializedhospital.com/storage/app/public/media/1557644658.png"
+    }
+]

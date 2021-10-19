@@ -1,0 +1,14 @@
+.btn-primary {
+    background-color: #4d72d0!important;
+    border: none!important;
+    border-radius: 32px;
+    padding: 13px 27px;
+    color: #fff;
+    font-weight: 400;
+    -webkit-box-shadow: 4.5px 7.794px 13px 0 #afc1ec;
+    box-shadow: 4.5px 7.794px 13px 0 #afc1ec;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+    font-size: 13px;
+}
